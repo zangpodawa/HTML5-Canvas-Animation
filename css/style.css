@@ -1,0 +1,28 @@
+#canvas {
+  border: 2px solid black;
+}
+.animationButton {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.animationButton:hover {
+  background-color: #45a049;
+}
+
+.clearButton {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.clearButton:hover {
+  background-color: #d32f2f;
+}
